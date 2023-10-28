@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067756254087",
+    "project_id": "rosa-ebd6f",
+    "storage_bucket": "rosa-ebd6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067756254087:android:880dfeb294c61558c99922",
+        "android_client_info": {
+          "package_name": "com.example.rosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067756254087-8bqoou0buijqpoln56q0vicdqdsrf2f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rosa",
+            "certificate_hash": "3668951376fcb797428c06ffae5b4ca37813007f"
+          }
+        },
+        {
+          "client_id": "1067756254087-ftr1uslfpd37k3pc03pi15gae6jodql2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ_TIuEtmPx1rU2dnmCYX6vdCZj8oUFPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067756254087-ftr1uslfpd37k3pc03pi15gae6jodql2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
